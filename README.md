@@ -4,10 +4,9 @@ Dette program skal bruges når man vil have nogle målinger over hvor meget regn
 Samt når man gerne vil have noget overblik over den kommende uge, samt hvis der skulle være kommentar til dagende.
 
 ## Input:
-* IndtastVaerdiger deciaml tal - Alle Tal bilver gemt i et Array ved navn ugeDageVaerdier.
-* kommentar (string) - Alle kommentar bliver gemt i et arrat ved navn ugeDageKommentar.
-
-* Menu - I menuen kan man vælge flere mulighedder dog skal alle valg være af tyben - int - 
+1. IndtastVaerdiger deciaml tal - Alle Tal bilver gemt i et Array ved navn ugeDageVaerdier.
+2. kommentar (string) - Alle kommentar bliver gemt i et arrat ved navn ugeDageKommentar.
+3. Menu - I menuen kan man vælge flere mulighedder dog skal alle valg være af tyben - int - 
 
 ## output:
 1. oversigt over alle vaerdier indstatet samt en kommentar til alle vaerdier
