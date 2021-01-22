@@ -14,3 +14,15 @@ output:
 2. gennemsnittet af alle intastede vaerdier
 3. maksimum vaerdi
 4. minimum vaerdi
+
+  change log
+version 0.1.0
+tilføjet indtastning af værdiger
+tilføjet indtastning af kommentar
+  version 0.2.0
+Tilføjet gennemsnits beregning
+Tilføjet Maksimum udregning
+Tilføjet Minimum udregning
+  Version 1.0.0
+Tilføjet Menu
+Tilføjet udskriving af alle værdiger.
